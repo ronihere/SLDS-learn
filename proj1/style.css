@@ -1,0 +1,16 @@
+.img{
+    width: 100%;
+    object-fit: cover;
+    height: 400px;
+}
+.abs{
+    top: 7rem;
+    left: 6rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-style: italic;
+}
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
